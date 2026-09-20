@@ -18,8 +18,8 @@
 #      Optiflashback | lun | | morado
 # ------------------------------------------------------------------
 
-Optiflashback | lun | | morado
-Optitop | mar mie | | turquesa
-Optigames | jue | | verde
+Optiseries | lun-vie | En la mañana | morado
+OptiMovies | mar-mie | | turquesa
+OptiAction | jue |Por la noche | verde
 412 · Fútbol | mar sab | a la noche | rojo
-Opticlassics | lun dom | | amarillo
+OptiClassics | lun dom | | amarillo
