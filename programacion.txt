@@ -18,7 +18,7 @@
 #      Optiflashback | lun | | morado
 # ------------------------------------------------------------------
 
-Optiseries | lun-vie | En la mañana | morado
+OptiSeries | lun-vie | En la mañana | morado
 OptiMovies | mar-mie | | turquesa
 OptiAction | jue |Por la noche | verde
 412 · Fútbol | mar sab | a la noche | rojo
