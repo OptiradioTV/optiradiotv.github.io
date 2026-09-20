@@ -1,0 +1,25 @@
+# ------------------------------------------------------------------
+#  PROGRAMACION DE OPTIRADIO TV
+#  Edita este archivo, subelo, y la guia de la pagina se actualiza sola.
+#  (Guardalo siempre como UTF-8 para que no se rompan las tildes.)
+#
+#  Una linea por programa, con este formato:
+#
+#      Nombre | dias | detalle (opcional) | color (opcional)
+#
+#  DIAS:    lun mar mie jue vie sab dom  (con o sin tilde)
+#           Ejemplos:  lun    mar mie    jue-dom    lun-vie    todos
+#  DETALLE: texto que se agrega al final ("a la noche", "20 h", etc.)
+#  COLOR:   morado, turquesa, verde, rojo, amarillo, naranja, azul, rosa
+#           o un codigo tipo #ff8800. Si lo dejas vacio se asigna solo.
+#
+#  Las lineas que empiezan con # se ignoran (son comentarios).
+#  Si un programa es solo un dia, o no tiene detalle, deja el campo vacio:
+#      Optiflashback | lun | | morado
+# ------------------------------------------------------------------
+
+Optiflashback | lun | | morado
+Optitop | mar mie | | turquesa
+Optigames | jue-dom | | verde
+412 · Fútbol | mar sab | a la noche | rojo
+Opticlassics | lun dom | | amarillo
