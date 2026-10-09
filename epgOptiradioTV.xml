@@ -4,137 +4,105 @@
     <display-name>Mi Canal</display-name>
   </channel>
 
-  <!-- ================= LUNES 12 ================= -->
+  <!-- ================= LUNES ================= -->
   <programme start="20261012000000 -0400" stop="20261012080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261012080000 -0400" stop="20261012120000 -0400" channel="micanal">
     <title lang="es">OptiSeries</title>
-    <desc lang="es">Tus series favoritas para empezar la mañana.</desc>
+    <desc lang="es">Tus series en la mañana.</desc>
   </programme>
-  <programme start="20261012120000 -0400" stop="20261012180000 -0400" channel="micanal">
+  <programme start="20261012120000 -0400" stop="20261013000000 -0400" channel="micanal">
     <title lang="es">OptiClassics</title>
-    <desc lang="es">Los mejores clásicos de la televisión.</desc>
-  </programme>
-  <programme start="20261012180000 -0400" stop="20261013000000 -0400" channel="micanal">
-    <title lang="es">OptiDocs</title>
-    <desc lang="es">Documentales sobre tecnología, desarrollo y curiosidades del mundo digital.</desc>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
 
-  <!-- ================= MARTES 13 ================= -->
+  <!-- ================= MARTES ================= -->
   <programme start="20261013000000 -0400" stop="20261013080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261013080000 -0400" stop="20261013120000 -0400" channel="micanal">
     <title lang="es">OptiSeries</title>
-    <desc lang="es">Tus series favoritas para empezar la mañana.</desc>
+    <desc lang="es">Tus series en la mañana.</desc>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013190000 -0400" channel="micanal">
     <title lang="es">OptiMovies</title>
-    <desc lang="es">Tarde de películas y entretenimiento.</desc>
+    <desc lang="es">Películas para tu tarde.</desc>
   </programme>
   <programme start="20261013190000 -0400" stop="20261013230000 -0400" channel="micanal">
     <title lang="es">412 · Fútbol</title>
-    <desc lang="es">La pasión del fútbol. Análisis, resúmenes de las ligas europeas y lo mejor del fútbol sudamericano.</desc>
+    <desc lang="es">Fútbol a la noche.</desc>
   </programme>
   <programme start="20261013230000 -0400" stop="20261014000000 -0400" channel="micanal">
-    <title lang="es">Zona Gamer</title>
-    <desc lang="es">Espacio dedicado a gameplays, aventuras en servidores y el mundo de la emulación.</desc>
+    <title lang="es">OptiMovies</title>
+    <desc lang="es">Películas para cerrar el día.</desc>
   </programme>
 
-  <!-- ================= MIÉRCOLES 14 ================= -->
+  <!-- ================= MIÉRCOLES ================= -->
   <programme start="20261014000000 -0400" stop="20261014080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261014080000 -0400" stop="20261014120000 -0400" channel="micanal">
     <title lang="es">OptiSeries</title>
-    <desc lang="es">Tus series favoritas para empezar la mañana.</desc>
+    <desc lang="es">Tus series en la mañana.</desc>
   </programme>
-  <programme start="20261014120000 -0400" stop="20261014180000 -0400" channel="micanal">
+  <programme start="20261014120000 -0400" stop="20261015000000 -0400" channel="micanal">
     <title lang="es">OptiMovies</title>
-    <desc lang="es">Tarde de películas y entretenimiento.</desc>
-  </programme>
-  <programme start="20261014180000 -0400" stop="20261015000000 -0400" channel="micanal">
-    <title lang="es">OptiToons</title>
-    <desc lang="es">Lo mejor de la animación con las voces clásicas del doblaje latinoamericano.</desc>
+    <desc lang="es">Películas para tu tarde y noche.</desc>
   </programme>
 
-  <!-- ================= JUEVES 15 ================= -->
+  <!-- ================= JUEVES ================= -->
   <programme start="20261015000000 -0400" stop="20261015080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261015080000 -0400" stop="20261015120000 -0400" channel="micanal">
     <title lang="es">OptiSeries</title>
-    <desc lang="es">Tus series favoritas para empezar la mañana.</desc>
+    <desc lang="es">Tus series en la mañana.</desc>
   </programme>
   <programme start="20261015120000 -0400" stop="20261015200000 -0400" channel="micanal">
-    <title lang="es">Zona Gamer</title>
-    <desc lang="es">Toda la tarde dedicada a gameplays, aventuras en servidores y el mundo de la emulación.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261015200000 -0400" stop="20261016000000 -0400" channel="micanal">
     <title lang="es">OptiAction</title>
-    <desc lang="es">Adrenalina pura en nuestra noche de acción.</desc>
+    <desc lang="es">Acción por la noche.</desc>
   </programme>
 
-  <!-- ================= VIERNES 16 ================= -->
+  <!-- ================= VIERNES ================= -->
   <programme start="20261016000000 -0400" stop="20261016080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261016080000 -0400" stop="20261016120000 -0400" channel="micanal">
     <title lang="es">OptiSeries</title>
-    <desc lang="es">Tus series favoritas para empezar la mañana.</desc>
+    <desc lang="es">Tus series en la mañana.</desc>
   </programme>
-  <programme start="20261016120000 -0400" stop="20261016190000 -0400" channel="micanal">
-    <title lang="es">OptiToons</title>
-    <desc lang="es">Lo mejor de la animación con las voces clásicas del doblaje latinoamericano.</desc>
-  </programme>
-  <programme start="20261016190000 -0400" stop="20261017000000 -0400" channel="micanal">
-    <title lang="es">Cine de Viernes</title>
-    <desc lang="es">Comenzamos el fin de semana con los mejores estrenos de la pantalla grande.</desc>
+  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="micanal">
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
 
-  <!-- ================= SÁBADO 17 ================= -->
-  <programme start="20261017000000 -0400" stop="20261017080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
-  </programme>
-  <programme start="20261017080000 -0400" stop="20261017130000 -0400" channel="micanal">
-    <title lang="es">OptiToons</title>
-    <desc lang="es">Mañana de dibujos animados para toda la familia.</desc>
-  </programme>
-  <programme start="20261017130000 -0400" stop="20261017190000 -0400" channel="micanal">
-    <title lang="es">Maratón OptiSeries</title>
-    <desc lang="es">Disfruta varios episodios seguidos de tus series preferidas.</desc>
+  <!-- ================= SÁBADO ================= -->
+  <programme start="20261017000000 -0400" stop="20261017190000 -0400" channel="micanal">
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
   <programme start="20261017190000 -0400" stop="20261017230000 -0400" channel="micanal">
     <title lang="es">412 · Fútbol</title>
-    <desc lang="es">La pasión del fútbol. Análisis, resúmenes de las ligas europeas y lo mejor del fútbol sudamericano.</desc>
+    <desc lang="es">Fútbol a la noche.</desc>
   </programme>
   <programme start="20261017230000 -0400" stop="20261018000000 -0400" channel="micanal">
-    <title lang="es">Zona Gamer</title>
-    <desc lang="es">Espacio nocturno de gaming, novedades y multijugador.</desc>
+    <title lang="es">OptiClassics</title>
+    <desc lang="es">Clásicos de siempre.</desc>
   </programme>
 
-  <!-- ================= DOMINGO 18 ================= -->
-  <programme start="20261018000000 -0400" stop="20261018080000 -0400" channel="micanal">
-    <title lang="es">Optiradio TV</title>
-    <desc lang="es">Transmisión nocturna en simultáneo con la mejor selección musical y programación en vivo.</desc>
-  </programme>
-  <programme start="20261018080000 -0400" stop="20261018120000 -0400" channel="micanal">
-    <title lang="es">OptiToons</title>
-    <desc lang="es">Mañana de dibujos animados para toda la familia.</desc>
-  </programme>
-  <programme start="20261018120000 -0400" stop="20261018180000 -0400" channel="micanal">
+  <!-- ================= DOMINGO ================= -->
+  <programme start="20261018000000 -0400" stop="20261019000000 -0400" channel="micanal">
     <title lang="es">OptiClassics</title>
-    <desc lang="es">Los mejores clásicos de la televisión para la tarde de domingo.</desc>
-  </programme>
-  <programme start="20261018180000 -0400" stop="20261019000000 -0400" channel="micanal">
-    <title lang="es">Cine Dominical</title>
-    <desc lang="es">Despide el fin de semana con una gran película.</desc>
+    <desc lang="es">Clásicos de siempre todo el domingo.</desc>
   </programme>
 </tv>
